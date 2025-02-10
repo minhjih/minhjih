@@ -1,17 +1,16 @@
 # Hello, I'm Jaehyun 👋
 
 Master & Ph.D student of Seaoul National University AiSLAB. Interest in AI-RAN, AI, Start-up.
+🌱 I’m currently learning AI-RAN.
 
-## 기술 스택
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+## Tech stacks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
-## 주요 프로젝트
+## Main Projects
 ### Side Project [Glimpse](https://github.com/minhjih/dailyexp)
 Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
 
@@ -22,15 +21,15 @@ We propose a mobility app incorporating gamified elements inspired by popular ga
 Momma is the Full stacked application which gives Food information and automatically examining nutrient information for pregnant women The service gives information about nutrients powered by customed AI. Based on eaten foods’ information, user can manage and check their nutrients information in targetting period. Not only providing nutrient from food image, but also analyzing information of delivery food from image, they can easily access to the delivery food with confidence in health information.
 
 
-## GitHub 통계
+## GitHub actions
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minhjih&show_icons=true&theme=radical)
 
 
-## 연락하기
+## Contact
 
 - 이메일: jhchoi0226@snu.ac.kr
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/minhjih/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/minhjih/)
 
 <!--
 **minhjih/minhjih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

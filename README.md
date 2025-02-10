@@ -7,11 +7,20 @@ Seaoul National University AiSLAB에서 통합 과정으로 연구하고 있습�
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
+<img alt="Flask" src ="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
+<img alt="Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+<img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+<img alt="CUDA" src ="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/> 
+<img alt="OpenCV" src ="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> 
 
 ## 주요 프로젝트
 
-### [프로젝트 이름](프로젝트 링크)
-간단한 프로젝트 설명. 사용된 기술 스택과 주요 기능을 나열하세요.
+### 2025 AWS Blackout Team BREMEN [GARi](프로젝트 링크)
+### About
+Personal Mobility (PM) refers to individual transportation devices such as electric scooters and bicycles, offering convenience and eco-friendliness. Shared mobility services enable multiple users to access these devices, with examples like GCOO in South Korea. However, safety concerns and parking issues remain significant challenges.
+
+To address these problems, we propose a mobility app incorporating gamified elements inspired by popular games like "Pokémon GO" and "Pikmin Bloom." The app includes an AI-based safety driving score system, rewarding users with discounts for safe driving and proper parking. A ranking system further encourages competition among users. This approach aims to enhance the safety of shared mobility and improve its social perception.
 
 ### [다른 프로젝트 이름](다른 프로젝트 링크)
 다른 프로젝트에 대한 설명...

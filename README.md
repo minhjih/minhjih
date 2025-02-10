@@ -27,9 +27,9 @@ Momma is the Full stacked application which gives Food information and automatic
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minhjih&show_icons=true&theme=radical)
 
 
-## Contact
+## 📫 Contact
 
-- 이메일: jhchoi0226@snu.ac.kr
+- E-mail: jhchoi0226@snu.ac.kr
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/minhjih/)
 
 <!--

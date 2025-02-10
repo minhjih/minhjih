@@ -1,29 +1,25 @@
-# 안녕하세요, Jaehyun입니다 👋
+# Hello, I'm Jaehyun 👋
 
-Seaoul National University AiSLAB에서 통합 과정으로 연구하고 있습니다. AI-RAN, AI, 창업에 관심이 많습니다.
+Master & Ph.D student of Seaoul National University AiSLAB. Interest in AI-RAN, AI, Start-up.
 
 ## 기술 스택
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 
 ## 주요 프로젝트
+### Side Project [Glimpse](https://github.com/minhjih/dailyexp)
+Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
 
-### 2025 AWS Blackout Team BREMEN [GARi](프로젝트 링크)
-### About
-Personal Mobility (PM) refers to individual transportation devices such as electric scooters and bicycles, offering convenience and eco-friendliness. Shared mobility services enable multiple users to access these devices, with examples like GCOO in South Korea. However, safety concerns and parking issues remain significant challenges.
+### 2025 AWS Blackout Team BREMEN [GARi](https://github.com/minhjih/Blackout2025)
+We propose a mobility app incorporating gamified elements inspired by popular games like "Pokémon GO" and "Pikmin Bloom." The app includes an AI-based safety driving score system, rewarding users with discounts for safe driving and proper parking. A ranking system further encourages competition among users. This approach aims to enhance the safety of shared mobility and improve its social perception.
 
-To address these problems, we propose a mobility app incorporating gamified elements inspired by popular games like "Pokémon GO" and "Pikmin Bloom." The app includes an AI-based safety driving score system, rewarding users with discounts for safe driving and proper parking. A ranking system further encourages competition among users. This approach aims to enhance the safety of shared mobility and improve its social perception.
-
-### [다른 프로젝트 이름](다른 프로젝트 링크)
-다른 프로젝트에 대한 설명...
+### 2024 Junction Asia[Mamma](https://github.com/minhjih/JUNCTIONBREMEN)
+Momma is the Full stacked application which gives Food information and automatically examining nutrient information for pregnant women The service gives information about nutrients powered by customed AI. Based on eaten foods’ information, user can manage and check their nutrients information in targetting period. Not only providing nutrient from food image, but also analyzing information of delivery food from image, they can easily access to the delivery food with confidence in health information.
 
 
 ## GitHub 통계

@@ -2,7 +2,7 @@
 
 Master & Ph.D student of Seaoul National University AiSLAB. Interest in AI-RAN, AI, Start-up.
 
-🌱 I’m currently learning AI-RAN.
+🌱 I’m currently learning AI-RAN, Communication System.
 
 ## Tech stacks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
@@ -31,7 +31,7 @@ Momma is the Full stacked application which gives Food information and automatic
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minhjih&show_icons=true&theme=radical)
 
 
-## 📫 Contact
+## ☕️ Contact
 
 - E-mail: jhchoi0226@snu.ac.kr
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/minhjih/)

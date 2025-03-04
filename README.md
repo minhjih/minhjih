@@ -19,7 +19,8 @@ Glimpse is an innovative research tracking and knowledge sharing platform design
 ### 🥇🏆 2025 AWS Blackout Team BREMEN [GARi](https://github.com/minhjih/Blackout2025)
 We propose a mobility app incorporating gamified elements inspired by popular games like "Pokémon GO" and "Pikmin Bloom." The app includes an AI-based safety driving score system, rewarding users with discounts for safe driving and proper parking. A ranking system further encourages competition among users. This approach aims to enhance the safety of shared mobility and improve its social perception. Bremen is track winner of Gcoo track and overall winner of AWS Blackout Hackerthon.
 
-### 
+### 🥉 DataEn OIBC-2024 BIG Data Challenge [Bremen](https://competition.postech.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?uid=250&mod=document&pageid=1)
+A hybrid model combining RNN, SARIMA, and Transformer architectures was developed to provide a predictive solution for the Jeju electricity market. The model demonstrated exceptional stability in its performance, earning a prestigious third-place award.
 
 ### 2024 Junction Asia [Mamma](https://github.com/minhjih/JUNCTIONBREMEN)
 Momma is the Full stacked application which gives Food information and automatically examining nutrient information for pregnant women The service gives information about nutrients powered by customed AI. Based on eaten foods’ information, user can manage and check their nutrients information in targetting period. Not only providing nutrient from food image, but also analyzing information of delivery food from image, they can easily access to the delivery food with confidence in health information.

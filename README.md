@@ -1,6 +1,6 @@
 # Hello, I'm Jaehyun 👋
 
-Master & Ph.D student of Seaoul National University AiSLAB. Interest in AI-RAN, AI, Start-up.
+Master & Ph.D student of Seaoul National University. Interest in AI-RAN, AI, Dev-ops, Start-up.
 
 🌱 I’m currently learning AI-RAN, Communication System.
 

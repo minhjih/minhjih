@@ -13,6 +13,12 @@ Master & Ph.D student of Seaoul National University. Interest in AI-RAN, AI, Dev
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ## Main Projects
+### 🌱 AI Consensus AI Hackathon Seoul (On-going)
+BREMEN advance to finals!
+
+### 🌱 Science Hackathon-SPACKS(On-going)
+BREMEN advance to finals!
+
 ### 🌱 Side Project(On-going) [Glimpse](https://github.com/minhjih/dailyexp)
 Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
 

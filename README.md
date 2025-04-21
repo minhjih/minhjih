@@ -13,11 +13,14 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ## Main Projects
-### 🌱 AI Consensus AI Hackathon Seoul (On-going)
-BREMEN advance to finals!
 
-### 🌱 Science Hackathon-SPACKS(On-going)
-BREMEN advance to finals!
+### 🥈 Science Hackathon-SPACKS [ScienSnap](https://github.com/joon363/STdev_BREMEN)
+일상 속 궁금한 장면을 카메라로 찍기만 하면,  해당 장면과 연결된 과학 개념을 쉽고 재미있게 알려줘요
+학년별 주제, 과목별 분류, 등급별로 정리되며  하나하나 채워갈수록 나만의 과학 도감이 완성됩니다
+내가 수집한 과학 카드들은 주간 랭킹에 자동 반영돼요. 누가 더 많이, 더 희귀한 개념을 모았는지 확인할 수 있어요
+
+### AI Consensus AI Hackathon Seoul[UpDocs](https://github.com/joon363/StudentsAI_BREMEN)
+This project was developed as part of the AGI Agent Application Hackathon. It aims to solve the bottlenecks students, researchers, and new employees face in writing high-quality structured documents without sufficient feedback or reference materials.
 
 ### 🌱 Side Project(On-going) [Glimpse](https://github.com/minhjih/dailyexp)
 Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.

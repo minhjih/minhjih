@@ -25,6 +25,8 @@ This project was developed as part of the AGI Agent Application Hackathon. It ai
 ### 🌱 Side Project(On-going) [Glimpse](https://github.com/minhjih/dailyexp)
 Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
 
+@jadestar and I joined to Chung Ju-yung Startup Competition with this idea.
+
 ### 🥇🏆 2025 AWS Blackout Team BREMEN [GARi](https://github.com/minhjih/Blackout2025)
 We propose a mobility app incorporating gamified elements inspired by popular games like "Pokémon GO" and "Pikmin Bloom." The app includes an AI-based safety driving score system, rewarding users with discounts for safe driving and proper parking. A ranking system further encourages competition among users. This approach aims to enhance the safety of shared mobility and improve its social perception. Bremen is track winner of Gcoo track and overall winner of AWS Blackout Hackerthon.
 

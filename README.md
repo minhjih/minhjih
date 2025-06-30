@@ -14,6 +14,12 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 
 ## Main Projects
 
+### 🌱 Chung Ju-yung Startup Competition (On-going) [Glimpse](https://github.com/minhjih/dailyexp)
+Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
+
+@jadestar and I joined to Chung Ju-yung Startup Competition with this idea.
+
+
 ### 🥈 Science Hackathon-SPACKS [ScienSnap](https://github.com/joon363/STdev_BREMEN)
 일상 속 궁금한 장면을 카메라로 찍기만 하면,  해당 장면과 연결된 과학 개념을 쉽고 재미있게 알려줘요
 학년별 주제, 과목별 분류, 등급별로 정리되며  하나하나 채워갈수록 나만의 과학 도감이 완성됩니다
@@ -21,11 +27,6 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 
 ### AI Consensus AI Hackathon Seoul[UpDocs](https://github.com/joon363/StudentsAI_BREMEN)
 This project was developed as part of the AGI Agent Application Hackathon. It aims to solve the bottlenecks students, researchers, and new employees face in writing high-quality structured documents without sufficient feedback or reference materials.
-
-### 🌱 Side Project(On-going) [Glimpse](https://github.com/minhjih/dailyexp)
-Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
-
-@jadestar and I joined to Chung Ju-yung Startup Competition with this idea.
 
 ### 🥇🏆 2025 AWS Blackout Team BREMEN [GARi](https://github.com/minhjih/Blackout2025)
 We propose a mobility app incorporating gamified elements inspired by popular games like "Pokémon GO" and "Pikmin Bloom." The app includes an AI-based safety driving score system, rewarding users with discounts for safe driving and proper parking. A ranking system further encourages competition among users. This approach aims to enhance the safety of shared mobility and improve its social perception. Bremen is track winner of Gcoo track and overall winner of AWS Blackout Hackerthon.

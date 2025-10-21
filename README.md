@@ -10,6 +10,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> 
+![PostgreSQL](https://img.shields.io/badge/postgresql.svg?style=for-the-badge?logo=PostgreSQL&logoColor=#4169E1)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ## Main Projects

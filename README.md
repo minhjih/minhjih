@@ -5,7 +5,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 🌱 I’m currently learning AI-RAN, Communication System.
 
 ## Tech stacks
-![nvidia Sionna](https://img,shields.io/badge/sionna-76b900?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![nvidia Sionna](https://img.shields.io/badge/sionna-76b900?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

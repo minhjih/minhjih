@@ -7,7 +7,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ## Tech stacks
 ### As Researcher
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=e87d0d)
-![Sionna](https://img.shields.io/badge/sionna\RT-76b900?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Sionna](https://img.shields.io/badge/sionnaRT-76b900?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 

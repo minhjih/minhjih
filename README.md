@@ -14,7 +14,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 
 ## Main Projects
 
-## 🌱 AI-based Operating System
+### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)
 Why Not Vibe OS? AI will schedule your operating system. It might cause disaster sometimes, but that might be surprise event! 😱
 
 ### Chung Ju-yung Startup Competition [Glimpse](https://github.com/minhjih/dailyexp)

@@ -25,7 +25,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ### RT-AUGGAN: Robust Fingerprint Positioning under Environmental Variations via Ray Tracing-Assisted GAN Augmentation - [ACCEPTED](https://www.icce-asia2025.org/2025/) IEEE/IEIE ICCE-ASIA 2025 
 RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep generative modeling to create physically meaningful channel augmentation for wireless communication systems.
 
-## Main Projects
+## Hackerthon \& Side Projects
 
 ### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)
 Why Not Vibe OS? AI will schedule your operating system. It might cause disaster sometimes, but that might be surprise event! 😱

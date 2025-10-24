@@ -22,7 +22,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 
 ## Researches
 
-### RT-AugGAN (Ray-Tracing Augmented Generative Adversarial Network) - IEEE/IEIE ICCE-ASIA 2025
+### RT-AUGGAN: Robust Fingerprint Positioning under Environmental Variations via Ray Tracing-Assisted GAN Augmentation - [ACCEPTED] IEEE/IEIE ICCE-ASIA 2025 
 RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep generative modeling to create physically meaningful channel augmentation for wireless communication systems.
 
 ## Main Projects

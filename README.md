@@ -12,10 +12,12 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 > Digital Twin & Ray-Tracing Simulation:
+
 Blender · NVIDIA Sionna · Omniverse · Python · CUDA
 – Building high-fidelity digital-twin environments and ray-traced wireless channels for realistic CSI generation and AI-RAN simulation.
 
-> Deep Learning & Augmentation:
+> Deep Learning:
+
 PyTorch · Hugging Face
 – Designing generative models that fuse physics-based priors with data-driven learning to enhance spatial robustness.
 
@@ -29,6 +31,7 @@ PyTorch · Hugging Face
 ![MeiliSearch](https://img.shields.io/badge/meilisearch-ff5caa?style=for-the-badge&logo=meilisearch&logoColor=white)
 
 > System Integration & Automation:
+
 Docker · Linux · AWS · MeiliSearch
 – End-to-end deployment of scalable research infrastructure for wireless AI experimentation.
 

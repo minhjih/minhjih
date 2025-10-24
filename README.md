@@ -25,7 +25,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)
 Why Not Vibe OS? AI will schedule your operating system. It might cause disaster sometimes, but that might be surprise event! 😱
 
-### Chung Ju-yung Startup Competition [Glimpse](https://github.com/minhjih/dailyexp)
+### 🎖️ Chung Ju-yung Startup Competition [reveal](https://github.com/minhjih/dailyexp) [site](https://reveal.ac)
 Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
 
 @jadestar and I joined to Chung Ju-yung Startup Competition with this idea.

@@ -20,6 +20,11 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MeiliSearch](https://img.shields.io/badge/meilisearch-ff5caa?style=for-the-badge&logo=meilisearch&logoColor=white)
 
+## Researches
+
+### RT-AugGAN (Ray-Tracing Augmented Generative Adversarial Network) - IEEE/IEIE ICCE-ASIA 2025
+RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep generative modeling to create physically meaningful channel augmentation for wireless communication systems.
+
 ## Main Projects
 
 ### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)

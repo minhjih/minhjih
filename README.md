@@ -20,7 +20,7 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MeiliSearch](https://img.shields.io/badge/meilisearch-ff5caa?style=for-the-badge&logo=meilisearch&logoColor=white)
 
-## Researches
+## Researches 📚
 
 ### RT-AUGGAN: Robust Fingerprint Positioning under Environmental Variations via Ray Tracing-Assisted GAN Augmentation - [ACCEPTED](https://www.icce-asia2025.org/2025/) IEEE/IEIE ICCE-ASIA 2025 
 RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep generative modeling to create physically meaningful channel augmentation for wireless communication systems.

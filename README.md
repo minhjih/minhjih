@@ -11,6 +11,14 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
+> Digital Twin & Ray-Tracing Simulation:
+Blender · NVIDIA Sionna · Omniverse · Python · CUDA
+– Building high-fidelity digital-twin environments and ray-traced wireless channels for realistic CSI generation and AI-RAN simulation.
+
+> Deep Learning & Augmentation:
+PyTorch · Hugging Face
+– Designing generative models that fuse physics-based priors with data-driven learning to enhance spatial robustness.
+
 ### As Developer
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -19,6 +27,10 @@ Master & Ph.D student of Seoul National University. Interest in AI-RAN, AI, Dev-
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/> 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MeiliSearch](https://img.shields.io/badge/meilisearch-ff5caa?style=for-the-badge&logo=meilisearch&logoColor=white)
+
+> System Integration & Automation:
+Docker · Linux · AWS · MeiliSearch
+– End-to-end deployment of scalable research infrastructure for wireless AI experimentation.
 
 ## Researches 📚
 

@@ -42,6 +42,11 @@ RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep ge
 
 ## Hackerthon \& Side Projects
 
+### Chameleon IDE 🦎
+Chameleon runs LLMs locally by default, eliminating external data exposure.
+Developers can generate task-specific datasets(with RAG) and fine-tune models directly within the IDE.
+This enables reproducible AI-assisted development for security-critical and domain-specific codebases.
+
 ### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)
 Why Not Vibe OS? AI will schedule your operating system. It might cause disaster sometimes, but that might be surprise event! 😱
 

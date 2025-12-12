@@ -42,7 +42,7 @@ RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep ge
 
 ## Hackerthon \& Side Projects
 
-### Chameleon IDE 🦎
+### Chameleon IDE 🦎 [Chaneleon](https://github.com/minhjih/Chameleon)
 Chameleon runs LLMs locally by default, eliminating external data exposure.
 Developers can generate task-specific datasets(with RAG) and fine-tune models directly within the IDE.
 This enables reproducible AI-assisted development for security-critical and domain-specific codebases.

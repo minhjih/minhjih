@@ -74,6 +74,10 @@ A hybrid model combining RNN, SARIMA, and Transformer architectures was develope
 Momma is the Full stacked application which gives Food information and automatically examining nutrient information for pregnant women The service gives information about nutrients powered by customed AI. Based on eaten foods’ information, user can manage and check their nutrients information in targetting period. Not only providing nutrient from food image, but also analyzing information of delivery food from image, they can easily access to the delivery food with confidence in health information.
 
 
+## HONORS
+KEPCO Academic Scholarship, Korea Electric Power Corporation (2023)
+Selected as a national scholarship recipient based on academic excellence and potential in the energy sector.
+
 ## GitHub actions
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minhjih&show_icons=true&theme=radical)

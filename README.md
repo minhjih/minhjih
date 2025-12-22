@@ -40,15 +40,7 @@ Docker · Linux · AWS · MeiliSearch
 ### RT-AUGGAN: Robust Fingerprint Positioning under Environmental Variations via Ray Tracing-Assisted GAN Augmentation - [ACCEPTED](https://ieeexplore.ieee.org/document/11263604) IEEE/IEIE ICCE-ASIA 2025 
 RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep generative modeling to create physically meaningful channel augmentation for wireless communication systems.
 
-## Hackerthon \& Side Projects
-
-### [Chameleon](https://github.com/minhjih/Chameleon) IDE 🦎 
-Chameleon runs LLMs locally by default, eliminating external data exposure.
-Developers can generate task-specific datasets(with RAG) and fine-tune models directly within the IDE.
-This enables reproducible AI-assisted development for security-critical and domain-specific codebases.
-
-### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)
-Why Not Vibe OS? AI will schedule your operating system. It might cause disaster sometimes, but that might be surprise event! 😱
+## Hackerthon
 
 ### 🎖️ Chung Ju-yung Startup Competition [reveal](https://github.com/minhjih/dailyexp) ([Link](https://reveal.ac))
 Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.
@@ -73,6 +65,14 @@ A hybrid model combining RNN, SARIMA, and Transformer architectures was develope
 ### 2024 Junction Asia [Mamma](https://github.com/minhjih/JUNCTIONBREMEN)
 Momma is the Full stacked application which gives Food information and automatically examining nutrient information for pregnant women The service gives information about nutrients powered by customed AI. Based on eaten foods’ information, user can manage and check their nutrients information in targetting period. Not only providing nutrient from food image, but also analyzing information of delivery food from image, they can easily access to the delivery food with confidence in health information.
 
+## Side Projects
+### [Chameleon](https://github.com/minhjih/Chameleon) IDE 🦎 
+Chameleon runs LLMs locally by default, eliminating external data exposure.
+Developers can generate task-specific datasets(with RAG) and fine-tune models directly within the IDE.
+This enables reproducible AI-assisted development for security-critical and domain-specific codebases.
+
+### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)
+Why Not Vibe OS? AI will schedule your operating system. It might cause disaster sometimes, but that might be surprise event! 😱
 
 ## HONORS
 KEPCO Academic Scholarship, Korea Electric Power Corporation (2023)

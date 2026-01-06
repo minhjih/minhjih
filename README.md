@@ -40,7 +40,7 @@ Docker · Linux · AWS · MeiliSearch
 ### RT-AUGGAN: Robust Fingerprint Positioning under Environmental Variations via Ray Tracing-Assisted GAN Augmentation - [ACCEPTED](https://ieeexplore.ieee.org/document/11263604) IEEE/IEIE ICCE-ASIA 2025 
 RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep generative modeling to create physically meaningful channel augmentation for wireless communication systems.
 
-## Hackerthon
+## Hackerthon & Competition
 
 ### 🎖️ Chung Ju-yung Startup Competition [reveal](https://github.com/minhjih/dailyexp) ([Link](https://reveal.ac))
 Glimpse is an innovative research tracking and knowledge sharing platform designed for graduate students. It offers a comprehensive solution for receiving recommendations on the latest papers in your field of interest, capturing key insights, sharing them with your research group, and publicly posting your paper reviews to spread knowledge in a short-form.

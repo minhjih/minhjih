@@ -47,6 +47,7 @@ Glimpse is an innovative research tracking and knowledge sharing platform design
 
 @jadestar and I joined to Chung Ju-yung Startup Competition with this idea.
 
+#### 😴 pivoting to agent linkedin system [reveal](https://github.com/minhjih/reveal_bot)
 
 ### 🥈 Science Hackathon-SPARCS [ScienSnap](https://github.com/joon363/STdev_BREMEN)
 일상 속 궁금한 장면을 카메라로 찍기만 하면,  해당 장면과 연결된 과학 개념을 쉽고 재미있게 알려줘요

@@ -75,6 +75,10 @@ This enables reproducible AI-assisted development for security-critical and doma
 ### 🌱 AI-based Operating System [AINUX](https://github.com/minhjih/Ainux)
 Why Not Vibe OS? AI will schedule your operating system. It might cause disaster sometimes, but that might be surprise event! 😱
 
+### AI on Chip [TBA](https://github.com/minhjih/AINX)
+Tiny YOLO on FPGA - coded in verilog
+Designing fully memory cache using Processing Units.
+
 ## HONORS
 KEPCO Academic Scholarship, Korea Electric Power Corporation (2023)
 Selected as a national scholarship recipient based on academic excellence and potential in the energy sector.

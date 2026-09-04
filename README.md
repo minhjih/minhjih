@@ -40,7 +40,7 @@ Docker · Linux · AWS · MeiliSearch
 ### RT-AUGGAN: Robust Fingerprint Positioning under Environmental Variations via Ray Tracing-Assisted GAN Augmentation - [ACCEPTED](https://ieeexplore.ieee.org/document/11263604) IEEE/IEIE ICCE-ASIA 2025 
 RT-AugGAN is a novel framework that bridges digital-twin ray tracing and deep generative modeling to create physically meaningful channel augmentation for wireless communication systems.
 
-### Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and Computation: A Comprehensive Survey - [ACCEPTED](https://ieeexplore.ieee.org/document/11480097) IEEE Comm SV&T Publicated
+### Advancing Multi-Robot Networks via MLLM-Driven Sensing, Communication, and Computation: A Comprehensive Survey - [Publicated](https://ieeexplore.ieee.org/document/11480097) IEEE Comm SV&T
 Survey and Research on Robot Communication Systems, Implemented and demonstrated Demo 1 and Demo 4, validating communication performance and system integration for robotic platforms.
 
 ## Hackerthon & Competition
